@@ -1,0 +1,5 @@
+/Users/SeestheEnemy/Code/Beginning-Game-Programming/projects/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/SeestheEnemy/Code/Beginning-Game-Programming/projects/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe.mdb
+/Users/SeestheEnemy/Code/Beginning-Game-Programming/projects/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe
+/Users/SeestheEnemy/Code/Beginning-Game-Programming/projects/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe
+/Users/SeestheEnemy/Code/Beginning-Game-Programming/projects/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe.mdb
