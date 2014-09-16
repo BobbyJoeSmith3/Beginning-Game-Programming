@@ -14,7 +14,7 @@ namespace FirstCSharpProgram
 		public static void Main (string[] args)
 		{
 			// print a message
-			Console.WriteLine ("Hello World!");
+			Console.WriteLine ("Hello, World!");
 
 			Console.WriteLine ();
 		}
